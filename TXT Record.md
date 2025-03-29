@@ -1,0 +1,5 @@
+#DNS 
+
+[[SPF]]
+[[DKIM]]
+[[DMARC]]
