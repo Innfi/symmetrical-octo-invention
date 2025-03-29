@@ -1,3 +1,3 @@
 # symmetrical-octo-invention
 
-An Obsidian Value for knowledge organizing
+An Obsidian Vault for knowledge organizing
