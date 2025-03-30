@@ -11,24 +11,13 @@
             "id": "63c442966b35382d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "cd465975a73c1a90",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8d21e80caaa79b62",
@@ -172,6 +161,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd465975a73c1a90",
-  "lastOpenFiles": []
+  "active": "9cc5540780aba2bd",
+  "lastOpenFiles": [
+    "ECR.md",
+    "Docker.md",
+    "Docker-Compose.md",
+    "Istio.md",
+    "Transit Gateway.md",
+    "VPC Peering.md",
+    "traceroute.md",
+    "ELB TargetGroup.md",
+    "Beats.md",
+    "ELK.md",
+    "Logstash.md",
+    "Prometheus.md",
+    "FluentBit.md",
+    "Grafana.md",
+    "NewRelic.md",
+    "Kibana.md",
+    "Elasticsearch.md",
+    "EKS.md",
+    "IRSA.md",
+    "VRFY.md",
+    "CoreDNS.md",
+    "VPC-CNI.md",
+    "KubeProxy.md"
+  ]
 }
