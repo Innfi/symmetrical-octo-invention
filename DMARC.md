@@ -7,6 +7,15 @@ p=quantine; / p=none; / p=reject;
 adkim=s; (strict) / adkim=r; (relaxed)
 aspf=s; / aspf=r;
 
+strict / relaxed: alignment
+
+strict: demands an exact match between the domain in the “From” address of the email and the domain authenticated by spf and/or dkim
+
+relaxed: the domain in the “From” address must match the authenticated domain at the organizational level. emails sent from a subdomain can still pass DMARC checks even if they don’t match the exact domain used in SPF or DKIM authentication
+
+rua: aggregate report
+ruf: forensic report
+
 
 Example.com's DMARC policy might look like this:
 
