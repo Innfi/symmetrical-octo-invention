@@ -178,6 +178,8 @@
   },
   "active": "27f17d30a252351d",
   "lastOpenFiles": [
+    "OIDC-Provider.md",
+    "Git.md",
     "IAM.md",
     "IAM-OIDC Provider.md",
     "Internet Gateway.md",
@@ -203,8 +205,6 @@
     "tech/ECR.md",
     "tech/Docker.md",
     "tech/Docker-Compose.md",
-    "tech/Istio.md",
-    "tech/Transit Gateway.md",
-    "tech/VPC Peering.md"
+    "tech/Istio.md"
   ]
 }
