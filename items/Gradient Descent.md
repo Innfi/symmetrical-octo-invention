@@ -1,0 +1,7 @@
+#AI 
+
+---
+>[!tip]
+>differentiable
+>derivative
+
