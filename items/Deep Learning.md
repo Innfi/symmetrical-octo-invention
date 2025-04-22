@@ -17,6 +17,8 @@
 [[Gradient Descent]]
 [[SGD]]
 [[Backpropagation Algorithm]]
+[[Computation Graph]]
+
 ## Behaviors
 ---
 Adjust weight based on [[Loss Function]] as a feedback signal
