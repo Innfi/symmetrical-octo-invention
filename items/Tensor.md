@@ -11,7 +11,7 @@
 ---
 dtype
 ndim
-shapre
+shaper
 
 ## Operations
 ---
