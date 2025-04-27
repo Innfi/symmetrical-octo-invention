@@ -19,6 +19,7 @@ shaper
 [[Tensor-Broadcasting]]
 [[Tensor-Product]]
 [[Tensor-Reshaping]]
+[[Tensor-GradientTape]]
 
 translation
 rotation
@@ -35,4 +36,5 @@ training loop:
 * update every weights of the model to diminish the load of the batch to some degree 
 	* the most difficult part
 	* connects to [[Gradient Descent]]
+
 

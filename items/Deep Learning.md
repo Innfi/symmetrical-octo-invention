@@ -2,6 +2,7 @@
 
 >[!note]
 >Artificial Intelligence > Machine Learning > Deep Learning
+>Machine Learning: finding viable representation of input data, helped by feedback signal, within the predefined space of possibility
 
 >[!tip] 
 >Layered Representations Learning
