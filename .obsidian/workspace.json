@@ -11,10 +11,14 @@
             "id": "58787e531d87eba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "items/Optimizer.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimizer"
             }
           },
           {
@@ -85,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +116,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -166,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +183,18 @@
   },
   "active": "f233e1822b745994",
   "lastOpenFiles": [
-    "items/TensorFlow.md",
+    "Keras-Metrics.md",
     "items/Keras.md",
-    "items/Deep Learning.md",
+    "items/Loss Function.md",
+    "items/Optimizer.md",
+    "items/TensorFlow.md",
     "items/Tensor-GradientTape.md",
+    "items/Deep Learning.md",
     "items/Tensor.md",
+    "Adam.md",
+    "AdaDelta.md",
+    "RMSprop.md",
+    "Adagrad.md",
     "Tensor-GradientTape.md",
     "Keras.md",
     "TensorFlow.md",
@@ -198,15 +207,8 @@
     "items/Tensor-Reshaping.md",
     "items/Tensor-Product.md",
     "items/Tensor-Broadcasting.md",
-    "items/Optimizer.md",
     "items/MNIST.md",
     "items/Neural Network.md",
-    "items/ConvNet.md",
-    "items/Loss Function.md",
-    "actions/Deploy an EKS cluster for new dev environment.md",
-    "items/Transit Gateway.md",
-    "items/IAM-OIDC Provider.md",
-    "items/Route53.md",
     "actions",
     "items",
     "self",

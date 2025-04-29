@@ -19,7 +19,6 @@ shaper
 [[Tensor-Broadcasting]]
 [[Tensor-Product]]
 [[Tensor-Reshaping]]
-[[Tensor-GradientTape]]
 
 translation
 rotation

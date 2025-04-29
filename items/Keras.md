@@ -10,4 +10,4 @@ layer:
 ## Requirements for Model training (before model.compile())
 - [[Optimizer]]
 - [[Loss Function]]
-- metrics
+- [[Keras-Metrics]]
