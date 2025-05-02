@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Keras.md",
+                "file": "items/Tensor-Product.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keras"
+              "title": "Tensor-Product"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items/Keras.md",
+                "file": "items/Tensor-Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Keras"
+              "title": "Backlinks for Tensor-Product"
             }
           },
           {
@@ -183,14 +183,16 @@
   },
   "active": "f233e1822b745994",
   "lastOpenFiles": [
-    "Keras-Metrics.md",
-    "items/Keras.md",
-    "items/Loss Function.md",
-    "items/Optimizer.md",
+    "items/Tensor.md",
+    "items/ReLU.md",
+    "relu.png",
     "items/TensorFlow.md",
     "items/Tensor-GradientTape.md",
     "items/Deep Learning.md",
-    "items/Tensor.md",
+    "items/Optimizer.md",
+    "items/Keras.md",
+    "Keras-Metrics.md",
+    "items/Loss Function.md",
     "Adam.md",
     "AdaDelta.md",
     "RMSprop.md",
@@ -203,12 +205,10 @@
     "items/SGD.md",
     "items/Backpropagation Algorithm.md",
     "Computation Graph.md",
-    "items/ReLU.md",
     "items/Tensor-Reshaping.md",
     "items/Tensor-Product.md",
     "items/Tensor-Broadcasting.md",
     "items/MNIST.md",
-    "items/Neural Network.md",
     "actions",
     "items",
     "self",
