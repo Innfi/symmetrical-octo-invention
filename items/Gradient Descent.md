@@ -5,3 +5,4 @@
 >differentiable
 >derivative
 
+[[SGD]]

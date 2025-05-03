@@ -16,20 +16,23 @@
 [[Neural Network]]
 [[Tensor]]
 [[Gradient Descent]]
-[[SGD]]
-[[Backpropagation Algorithm]]
 [[Computation Graph]]
 [[TensorFlow]]
-
+[[Manifold Hypothesis]]
 ## Behaviors
 ---
 Adjust weight based on [[Loss Function]] as a feedback signal
 
-## Materials
----
-[[MNIST]]
-
-
 ## Questions
 ---
-what is learning?
+- what is learning?
+- from optimization to generalization
+	- dataset curation
+	- feature engineering
+	- early stopping
+	- [[Regularization]]
+- thin line between underfitting and overfitting
+## Evaluation
+---
+[[Holdout Validation]]
+[[K-Fold Cross Validation]]

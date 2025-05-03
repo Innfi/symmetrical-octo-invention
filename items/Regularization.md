@@ -1,0 +1,7 @@
+---
+
+---
+
+---
+- weight regularization
+- dropout 
