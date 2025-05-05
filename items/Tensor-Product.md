@@ -1,4 +1,3 @@
-#AI 
 
 >[!code]
 >```python

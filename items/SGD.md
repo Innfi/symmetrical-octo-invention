@@ -1,9 +1,9 @@
-#AI 
 
 ---
 >[!tip]
 >Mini-Batch Stochastic Gradient Descent
+>(stochastic === random)
 
-stochastic === random 
 
-[[Backpropagation Algorithm]]
+
+

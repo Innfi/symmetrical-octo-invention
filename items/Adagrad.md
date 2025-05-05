@@ -1,4 +1,3 @@
-#AI 
+
 ## Adaptive Gradient
 
----

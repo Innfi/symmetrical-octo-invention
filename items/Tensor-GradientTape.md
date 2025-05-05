@@ -1,8 +1,7 @@
-#AI 
 
----
+[[TensorFlow]] API
 - Automatic differentiation
 - record every executed operation within the context to the tape
 
-## Terms
+### Terms
 - reverse mode differentiation
