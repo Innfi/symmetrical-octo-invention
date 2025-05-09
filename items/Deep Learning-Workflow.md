@@ -1,7 +1,7 @@
 >[!note]
->technically it's a machine learning workflow but doesn't make a differnence for me (so far)
+>technically it's a machine learning workflow but doesn't make a difference for me (so far)
 
-## Workload Definition
+## 1. Workload Definition
 ---
 ### Problem definition
 - type of input data
@@ -19,7 +19,7 @@
 ### Decide Successful Metrics
 
 
-## Model Development
+## 2. Model Development
 ---
 ### Data Preprocessing
 - vectorization
@@ -39,7 +39,7 @@
 ### Regularization / Hyperparameter Tuning
 - keras tuner?
 
-## Model Deployment
+## 3. Model Deployment
 ---
 (todo)
 
