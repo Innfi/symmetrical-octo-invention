@@ -7,15 +7,16 @@
 - spatial hierarchy
 
 ## Target
-- Rank-3 [[Tensor]] : feature map
+- Rank-3 [[Tensor]] : [[Feature Map]]
 
 
 
 ## Terms
 ---
+- convolution kernel
+- padding
 - stride
 - down sampling
-- max pooling
 - average pooling
 - data augmentation
 - feature extraction

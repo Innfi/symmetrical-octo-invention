@@ -28,7 +28,6 @@
 
 ---
 ## Terms
-- [[ConvNet]]
 - [[Computation Graph]]
 
 ## Questions

@@ -1,7 +1,12 @@
 
 ---
-### Data
-- differentiable
+## Data
+- differentiable(?)
 - [[Manifold Hypothesis]]
-### Example Dataset
+
+## Data Preprocessing
+- vectorization
+- augmentation
+
+## Example Dataset
 - [[MNIST]]

@@ -9,3 +9,7 @@
 [[Optimizer]]
 [[Backpropagation Algorithm]]
 [[Tensor]]
+
+## Variants
+
+[[ConvNet]]
