@@ -14,6 +14,7 @@
 ### Data Preparation
 - data annotation
 - (fits [[Deep Learning-Prerequisites]] ?)
+- [[Data Augmentation]]
 ### Comprehending Data
 - characteristics?
 ### Decide Successful Metrics

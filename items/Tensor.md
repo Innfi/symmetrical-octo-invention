@@ -7,15 +7,16 @@ shape: number of dimensions
 
 ## Operations
 ---
-[[ReLU]]
-[[Tensor-Broadcasting]]
-[[Tensor-Product]]
-[[Tensor-Reshaping]]
-
+- [[ReLU]]
+- [[Tensor-Broadcasting]]
+- [[Tensor-Product]]
+- [[Tensor-Reshaping]]
 translation
 rotation
 linear transform
 affine transform
 transposition
 
+## Terms
 ---
+[[Tensor-GradientTape]]

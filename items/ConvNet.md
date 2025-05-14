@@ -6,18 +6,15 @@
 - translation invariant
 - spatial hierarchy
 
-## Target
-- Rank-3 [[Tensor]] : [[Feature Map]]
-
-
+## Core
+- [[Feature Map]]: Rank-3 [[Tensor]]
+- [[Convolution Kernel]]
 
 ## Terms
 ---
-- convolution kernel
 - padding
 - stride
-- down sampling
-- average pooling
-- data augmentation
+- [[Average Pooling]]
+- [[Data Augmentation]]
 - feature extraction
 - fine tuning

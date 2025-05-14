@@ -1,5 +1,3 @@
-#Layer 
-
 >[!tip]
 >downsampling method
 

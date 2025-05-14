@@ -23,15 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/ConvNet.md",
+                "file": "items/Feature Map.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConvNet"
+              "title": "Feature Map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "items/Feature Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Feature Map"
             }
           },
           {
@@ -176,23 +178,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e4b8c5b25dea63c",
+  "active": "caa27be1cd0acf32",
   "lastOpenFiles": [
     "items/ConvNet.md",
-    "items/Keras-MaxPooling2D.md",
-    "items/Keras.md",
-    "items/Keras-Conv2D.md",
+    "items/Feature Map.md",
     "items/Neural Network.md",
     "items/Deep Learning.md",
-    "items/Deep Learning-Prerequisites.md",
     "items/TensorFlow.md",
+    "items/Keras.md",
+    "items/Keras-MaxPooling2D.md",
+    "items/Keras-Conv2D.md",
+    "items/Average Pooling.md",
+    "items/Convolution Kernel.md",
+    "items/Data Augmentation.md",
+    "items/Deep Learning-Workflow.md",
+    "items/Tensor.md",
+    "items/Deep Learning-Prerequisites.md",
     "items/Loss Function.md",
     "items/Optimizer.md",
     "items/Keras-Flatten.md",
     "items/Keras-Dense.md",
     "items/Sigmoid.md",
-    "items/Tensor.md",
-    "items/Deep Learning-Workflow.md",
     "items/Adam.md",
     "items/AdaDelta.md",
     "items/RMSprop.md",
@@ -200,10 +206,6 @@
     "items/SGD.md",
     "items/ReLU.md",
     "items/Tensor-Product.md",
-    "items/Tensor-Broadcasting.md",
-    "items/Tensor-Reshaping.md",
-    "items/Tensor-GradientTape.md",
-    "items/MNIST.md",
     "relu.png",
     "actions",
     "items",
