@@ -10,6 +10,11 @@
 - [[Feature Map]]: Rank-3 [[Tensor]]
 - [[Convolution Kernel]]
 
+## Model Architecture
+- [[Residual Connection]]
+- [[Batch Normalization]]
+- [[Separable Convolution]]
+
 ## Terms
 ---
 - padding
