@@ -178,11 +178,11 @@
   },
   "active": "a6b78b561545f227",
   "lastOpenFiles": [
-    "items/Batch Normalization.md",
+    "items/Depthwise Separable Convolution.md",
     "items/ConvNet.md",
+    "items/Batch Normalization.md",
     "items/Residual Connection.md",
     "items/Vanishing Gradient.md",
-    "items/Separable Convolution.md",
     "items/PrivateLink.md",
     "items/KEDA.md",
     "items/ECR.md",
