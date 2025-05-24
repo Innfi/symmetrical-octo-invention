@@ -1,0 +1,3 @@
+
+- Gradiant Ascent
+- Gradiant Clipping

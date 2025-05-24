@@ -23,6 +23,10 @@
 - adding batch normalization layer next to convolution layer can help
 - replacing Conv2D layer to paramer-wise effective SeparableConv2D layer can help
 
+## Model Interpretability
+- Hitmap
+- [[Class Activation Map]]
+
 ## Terms
 ---
 - padding

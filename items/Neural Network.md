@@ -13,3 +13,4 @@
 ## Variants
 
 [[ConvNet]]
+[[RNN]]

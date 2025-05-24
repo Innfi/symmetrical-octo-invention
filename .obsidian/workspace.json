@@ -23,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/ConvNet.md",
+                "file": "items/RNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConvNet"
+              "title": "RNN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,25 +99,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbcc8e60e840d31e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "items/ConvNet.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for ConvNet"
-            }
-          },
-          {
             "id": "5e9ccb3020ab8aa2",
             "type": "leaf",
             "state": {
@@ -159,12 +139,32 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "747b5eef5e278a4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,34 +176,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b78b561545f227",
+  "active": "4e4b8c5b25dea63c",
   "lastOpenFiles": [
-    "items/Depthwise Separable Convolution.md",
+    "items/RNN.md",
+    "items/Neural Network.md",
     "items/ConvNet.md",
+    "items/Depthwise Separable Convolution.md",
     "items/Batch Normalization.md",
     "items/Residual Connection.md",
+    "items/Convolution Kernel.md",
+    "items/Feature Map.md",
+    "items/Class Activation Map.md",
     "items/Vanishing Gradient.md",
     "items/PrivateLink.md",
     "items/KEDA.md",
     "items/ECR.md",
     "items/Ingress.md",
-    "items/Feature Map.md",
-    "items/Neural Network.md",
     "items/Deep Learning.md",
     "items/TensorFlow.md",
     "items/Keras.md",
     "items/Keras-MaxPooling2D.md",
     "items/Keras-Conv2D.md",
     "items/Average Pooling.md",
-    "items/Convolution Kernel.md",
     "items/Data Augmentation.md",
     "items/Deep Learning-Workflow.md",
     "items/Tensor.md",
     "items/Deep Learning-Prerequisites.md",
     "items/Loss Function.md",
     "items/Optimizer.md",
-    "items/Keras-Flatten.md",
-    "items/Keras-Dense.md",
     "relu.png",
     "actions",
     "items",
