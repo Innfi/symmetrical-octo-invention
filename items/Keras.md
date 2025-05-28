@@ -12,10 +12,13 @@
 [[Keras-Conv2D]]
 [[Keras-MaxPooling2D]]
 [[Keras-Flatten]]
-
+[[Keras-LSTM]]
+[[Keras-GRU]]
+[[Keras-Dropout]]
 ## Activation Function
 - [[ReLU]]
 - [[Sigmoid]]
+- [[tanh]]
 ### Requirements for Model training (before model.compile())
 - [[Optimizer]]
 - [[Loss Function]]
