@@ -25,11 +25,10 @@
 - [[Deep Learning-Workflow]]
 
 
-
 ---
 ## Terms
 - [[Computation Graph]]
-
+- [[Text Processing]]
 ## Questions
 - from optimization to generalization
 	- dataset curation
