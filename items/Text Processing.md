@@ -11,3 +11,6 @@
 	- word embedding (pretrained word embedding)
 ## Layers in Keras
 - [[Keras-TextVectorization]]
+
+## Terms
+- [[Transformer]]

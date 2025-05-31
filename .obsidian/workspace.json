@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Deep Learning.md",
-                "mode": "preview",
+                "file": "items/Text Processing.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Learning"
+              "title": "Text Processing"
             }
           }
         ],
@@ -181,10 +181,12 @@
   },
   "active": "03a9c5ad91dc315b",
   "lastOpenFiles": [
-    "items/Neural Network.md",
+    "Transformer.md",
+    "items/Transformer.md",
     "items/Text Processing.md",
-    "items/Vectorization.md",
     "items/Deep Learning.md",
+    "items/Neural Network.md",
+    "items/Vectorization.md",
     "items/TensorFlow.md",
     "items/Keras.md",
     "items/Keras-Conv2D.md",
@@ -206,8 +208,6 @@
     "items/Keras-GRU.md",
     "items/Keras-SimpleRNN.md",
     "items/ReLU.md",
-    "items/Sigmoid.md",
-    "items/Deep Learning-Prerequisites.md",
     "actions",
     "items",
     "self",
