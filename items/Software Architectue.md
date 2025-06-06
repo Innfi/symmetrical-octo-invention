@@ -11,5 +11,10 @@
 [[Tactical Branching]]
 [[Strangler Pattern]]
 
+[[Data Disintegrator]]
+[[Data Integrator]]
+
+
+
 
 [[Component-Based Destructuring]]
