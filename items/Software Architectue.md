@@ -1,20 +1,24 @@
 #SoftwareArchitecture 
 
-[[Architecture Quantum]]
-[[Maintainability]]
-[[Testability]]
-[[Deployability]]
-[[Scalability]]
-[[Elasticity]]
-[[Fault Tolerance]]
+>[!note]
+>objective: reducing resources to create and maintain the system required
 
-[[Tactical Branching]]
-[[Strangler Pattern]]
+## Architecture Principles
+- [[Reuse-Release Equivalent Principle]]
+- [[Common Closure Principle]]
+- [[Common Reuse Principle]]
 
-[[Data Disintegrator]]
-[[Data Integrator]]
-
-
-
-
-[[Component-Based Destructuring]]
+## Terms
+- [[Software Component]]
+- [[Architecture Quantum]]
+- [[Maintainability]]
+- [[Testability]]
+- [[Deployability]]
+- [[Scalability]]
+- [[Elasticity]]
+- [[Fault Tolerance]]
+- [[Tactical Branching]]
+- [[Strangler Pattern]]
+- [[Data Disintegrator]]
+- [[Data Integrator]]
+- [[Component-Based Destructuring]]

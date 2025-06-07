@@ -1,4 +1,4 @@
-#SoftwareArchitecture 
+#SoftwareArchitecture #Criteria
 ## metrics
 - component coupling
 - component cohesion

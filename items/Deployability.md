@@ -1,4 +1,4 @@
-#SoftwareArchitecture 
+#SoftwareArchitecture #Criteria 
 ## metrics
 - deployment frequency
 - difficulty of deployment 
