@@ -1,24 +1,27 @@
 #SoftwareArchitecture 
 
 >[!note]
->objective: reducing resources to create and maintain the system required
+>objective: reducing resources to create and maintain the required system
 
-## Architecture Principles
+## Architecture Principle
 - [[Reuse-Release Equivalent Principle]]
 - [[Common Closure Principle]]
 - [[Common Reuse Principle]]
-
-## Terms
-- [[Software Component]]
-- [[Architecture Quantum]]
+## Criteria
 - [[Maintainability]]
 - [[Testability]]
 - [[Deployability]]
 - [[Scalability]]
 - [[Elasticity]]
 - [[Fault Tolerance]]
+- [[Modularity]]
+- [[Granularity]]
+## Process
+- [[Operation Data Destructuring]]
+- [[Component-Based Destructuring]]
 - [[Tactical Branching]]
 - [[Strangler Pattern]]
-- [[Data Disintegrator]]
-- [[Data Integrator]]
-- [[Component-Based Destructuring]]
+---
+## Terms
+- [[Software Component]]
+- [[Architecture Quantum]]
