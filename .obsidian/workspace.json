@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Software Architectue.md",
+                "file": "items/Architecture Quantum.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Architectue"
+              "title": "Architecture Quantum"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "items/Architecture Quantum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Architecture Quantum"
             }
           }
         ],
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f9cd3d7ae97aa2",
+  "active": "4e4b8c5b25dea63c",
   "lastOpenFiles": [
+    "items/Choreography.md",
+    "items/Architecture Quantum.md",
+    "items/Orchestration.md",
     "items/Software Architectue.md",
+    "items/Component-Based Destructuring.md",
+    "items/Component Identification and Sizing.md",
+    "items/Operation Data Destructuring.md",
     "items/Strangler Pattern.md",
     "items/Tactical Branching.md",
-    "items/Component-Based Destructuring.md",
-    "items/Operation Data Destructuring.md",
     "items/Data Disintegrator.md",
     "items/Data Integrator.md",
     "items/Granularity.md",
@@ -200,10 +205,6 @@
     "items/Common Closure Principle.md",
     "items/Reuse-Release Equivalent Principle.md",
     "items/Elasticity.md",
-    "items/Scalability.md",
-    "items/Deployability.md",
-    "items/Testability.md",
-    "items/Maintainability.md",
     "relu.png",
     "actions",
     "items",
