@@ -13,3 +13,6 @@
 [[KubeProxy]]
 [[Pod Identity Agent]]
 
+# Network
+
+https://github.com/aws-samples/eks-network-policy-examples/blob/main/stars/README.md
