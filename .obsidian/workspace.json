@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "f3a6830650a421b7",
+    "id": "d7c14fa2c502220b",
     "type": "split",
     "children": [
       {
-        "id": "0cb0a35509a0e4c0",
+        "id": "36873a5173b9febe",
         "type": "tabs",
         "children": [
           {
-            "id": "59f9cd3d7ae97aa2",
+            "id": "3bd3ca29c578399f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/aws-load-balancer-controller.md",
-                "mode": "preview",
+                "file": "items/Istio.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aws-load-balancer-controller"
+              "title": "Istio"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3699186a38404c3",
+    "id": "fdeed7ca5cc3fde1",
     "type": "split",
     "children": [
       {
-        "id": "36faeec5683911c6",
+        "id": "c62b92eb9358df82",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc5540780aba2bd",
+            "id": "fe24ac27202f029f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "f4c5e26f851e435a",
+            "id": "3638e2829fdc0370",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "loadba",
+                "query": "istio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "aa3284785d497b95",
+            "id": "6cf034f0f1f04e19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,35 +74,56 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 200
   },
   "right": {
-    "id": "8d21e80caaa79b62",
+    "id": "e25888dabcceec77",
     "type": "split",
     "children": [
       {
-        "id": "d221553f33b97e7c",
+        "id": "214c5154f2a79f74",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9ccb3020ab8aa2",
+            "id": "1d41e332c8630edc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "items/Istio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Istio"
+            }
+          },
+          {
+            "id": "ea095bc80db9ba7d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "items/Istio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Istio"
             }
           },
           {
-            "id": "8a43eecbb6f68fb5",
+            "id": "96e36ef26349c20a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -117,44 +138,25 @@
             }
           },
           {
-            "id": "84952f5feb9662fc",
+            "id": "179448b3cd2428d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "items/Istio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "747b5eef5e278a4f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "items/Architecture Quantum.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Architecture Quantum"
+              "title": "Outline of Istio"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,38 +169,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f9cd3d7ae97aa2",
+  "active": "3bd3ca29c578399f",
   "lastOpenFiles": [
-    "items/ELB.md",
-    "items/aws-load-balancer-controller.md",
-    "items/VPC-CNI.md",
-    "Untitled.md",
-    "items/EKS.md",
-    "items/DynamoDB.md",
-    "items/Redis.md",
-    "items/Architecture Quantum.md",
-    "items/Choreography.md",
-    "items/Orchestration.md",
-    "items/Software Architectue.md",
-    "items/Component-Based Destructuring.md",
-    "items/Component Identification and Sizing.md",
-    "items/Operation Data Destructuring.md",
-    "items/Strangler Pattern.md",
-    "items/Tactical Branching.md",
-    "items/Data Disintegrator.md",
-    "items/Data Integrator.md",
-    "items/Granularity.md",
-    "items/Extensibility.md",
-    "items/Software Component.md",
-    "items/Modularity.md",
-    "items/Fault Tolerance.md",
-    "items/Software Design.md",
-    "items/Dependency Inversion Principle.md",
-    "items/Interface Segregation Principle.md",
-    "relu.png",
-    "actions",
-    "items",
-    "self",
-    "tech"
+    "items/CoreDNS.md"
   ]
 }
