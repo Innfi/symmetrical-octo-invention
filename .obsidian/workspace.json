@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "36873a5173b9febe",
+        "id": "47673ee9e1912619",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd3ca29c578399f",
+            "id": "7a87dc42105445dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f0a2f96334a54371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Istio.md",
+                "file": "items/Streaming HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Istio"
+              "title": "Streaming HTTP"
+            }
+          },
+          {
+            "id": "2a1a9d6e1b2fdfc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "items/Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent"
             }
           }
         ]
@@ -53,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "istio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +98,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,8 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bd3ca29c578399f",
+  "active": "7a87dc42105445dd",
   "lastOpenFiles": [
+    "items/SSE.md",
+    "items/Streaming HTTP.md",
+    "items/Agent.md",
+    "items/Model Context Protocol.md",
+    "items/Workflow.md",
+    "actions/Untitled.md",
+    "items/Istio.md",
+    "actions",
     "items/CoreDNS.md"
   ]
 }
