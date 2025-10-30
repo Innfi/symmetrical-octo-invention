@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d140c9278903b23b",
+        "id": "a99190bb3cd973b9",
         "type": "tabs",
         "children": [
           {
-            "id": "b6adc12e4147db0c",
+            "id": "2503352e5e5aa8ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "items/RAG.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RAG"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe24ac27202f029f",
+  "active": "2503352e5e5aa8ed",
   "lastOpenFiles": [
     "items/RAG.md",
     "items/RAPTER.md",
