@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2503352e5e5aa8ed",
+            "id": "8826e8d9eafd7a9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "items/RAG.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAG"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Automation",
+                "query": "tag:#K8S",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2503352e5e5aa8ed",
+  "active": "8826e8d9eafd7a9a",
   "lastOpenFiles": [
+    "items/Grafana.md",
+    "items/Cloudwatch.md",
+    "items/Kibana.md",
+    "items/Prometheus.md",
+    "items/Prometheus 1.md",
+    "items/Cilium.md",
+    "items/Grafana 1.md",
+    "items/Hubble.md",
+    "items/eBPF.md",
+    "TODO.md",
     "items/RAG.md",
     "items/RAPTER.md",
     "items/ColBERT.md",

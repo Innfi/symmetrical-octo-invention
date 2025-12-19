@@ -1,3 +1,3 @@
-#Metrics #Visualization 
+#Metrics #Visualization #Observability 
 
-[[Prometheus]]
+[[items/Prometheus]]
