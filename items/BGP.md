@@ -14,9 +14,14 @@
 - route storage
 - route selection
 # Handling scale
+- full mesh
 - route reflector
 - confederation
 - route aggregation
+# Topics
+- split horizon (over 3 routers in iBGP)
+- next hop
+- synchronization rule
 
 ## **Example BGP Routing Table Output**
 

@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "bba1c867ffb5ba25",
+            "id": "eee927e67e25e9e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#K8S",
+                "query": "tag:#CNI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,18 +194,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bba1c867ffb5ba25",
+  "active": "c388169311147aad",
   "lastOpenFiles": [
+    "items/cni comparision.md",
     "items/BGP.md",
+    "Overlay Network.md",
+    "items/VPC-CNI.md",
+    "items/Calico.md",
+    "items/Cilium.md",
+    "items/Pod Identity Agent.md",
+    "items/Transit Gateway.md",
     "items/Transit Gateway 1.md",
     "items/AWS Direct Connect.md",
-    "items/cni comparision.md",
     "items/Grafana.md",
     "items/Cloudwatch.md",
     "items/Kibana.md",
     "items/Prometheus.md",
     "items/Prometheus 1.md",
-    "items/Cilium.md",
     "items/Grafana 1.md",
     "items/Hubble.md",
     "items/eBPF.md",
@@ -217,11 +222,6 @@
     "items/Langchain.md",
     "items/Model Context Protocol.md",
     "items/MCP Server.md",
-    "items/MCP Inspector.md",
-    "items/Tool.md",
-    "items/Agent.md",
-    "items/SSE.md",
-    "items/Streaming HTTP.md",
     "actions"
   ]
 }

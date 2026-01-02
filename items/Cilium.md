@@ -1,4 +1,4 @@
-#K8S #Network 
+#K8S #Network #CNI
 
 [[eBPF]]
 [[Hubble]]
